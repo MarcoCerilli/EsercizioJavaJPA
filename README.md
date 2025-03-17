@@ -4,9 +4,12 @@
 
 Un progetto di esempio realizzato con **Maven** che include tecnologie moderne come **Java**, **Spring Boot**, e **JPA**.
 # Tecnologie utilizzate
-![image](https://github.com/user-attachments/assets/e0206fa0-de5a-48ea-9188-79de6692c878)
+![image](https://github.com/user-attachments/assets/2f67aaad-b88b-40c1-a4f5-330e44361361)
+
 ![image](https://github.com/user-attachments/assets/96d26cc0-80d2-41cc-876f-8e951fcce3c9)
+
 ![image](https://github.com/user-attachments/assets/a9db36c7-7852-4bb0-a612-08aac7276a16)
+
 ![image](https://github.com/user-attachments/assets/ff5a175c-bf83-443a-891b-5034bcee064c)
 
 
