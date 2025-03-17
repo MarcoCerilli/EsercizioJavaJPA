@@ -1,4 +1,4 @@
-![Java Logo](images/java-logo.png)
+
 
 # Libreria Maven
 
