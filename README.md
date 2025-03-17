@@ -3,10 +3,10 @@
 # Libreria Maven
 
 Un progetto di esempio realizzato con **Maven** che include tecnologie moderne come **Java**, **Spring Boot**, e **JPA**.
+![Java Logo](https://upload.wikimedia.org/wikipedia/commons/1/1f/Java_logo_and_wordmark.svg)
+![Spring Boot Logo](https://spring.io/images/93c93d126e6b0c4bb79a20757293d7d7.svg)
+![Maven Logo](https://upload.wikimedia.org/wikipedia/commons/a/a6/Apache_Maven_logo.svg)
 
-[Java Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Java_logo_%282013%29.svg)
-[Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Spring_Boot_Logo_2018.svg)
-[Maven Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Apache_Maven_logo.svg)
 
 ## Tecnologie Usate
 
